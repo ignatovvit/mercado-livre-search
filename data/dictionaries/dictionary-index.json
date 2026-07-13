@@ -1,0 +1,22 @@
+{
+  "version": "2026.07.12.1",
+  "updatedAt": "2026-07-12T00:00:00.000Z",
+  "targetLanguages": ["pt-BR", "es"],
+  "defaultTargetLanguage": "pt-BR",
+  "packages": [
+    {
+      "id": "ru-en_pt-BR_v1",
+      "sourceLanguages": ["ru", "en"],
+      "targetLanguage": "pt-BR",
+      "path": "ru-en_pt-BR_v1.json",
+      "version": "1.2.0"
+    },
+    {
+      "id": "ru-en_es_v1",
+      "sourceLanguages": ["ru", "en"],
+      "targetLanguage": "es",
+      "path": "ru-en_es_v1.json",
+      "version": "1.0.0"
+    }
+  ]
+}

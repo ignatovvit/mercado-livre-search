@@ -1,0 +1,11 @@
+{
+  "name": "mercado-livre-search-extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "generate:dictionary": "node scripts/generate-dictionary.mjs",
+    "check": "node --check src/shared/dictionary.js && node --check src/shared/search-engine.js && node --check src/shared/mercado-url.js && node --check src/background/service-worker.js && node --check src/content/panel-position.js && node --check src/content/panel-tabs.js && node --check src/content/search-session.js && node --check src/content/result-selection.js && node --check src/content/product-data.js && node --check src/content/i18n.js && node --check src/content/scan-state.js && node --check src/content/scan-preferences.js && node --check src/content/scan-strategy.js && node --check src/content/content-script.js"
+  }
+}
