@@ -54,7 +54,7 @@ Shopping
 
 ### Support URL
 
-TODO: Add your support page URL.
+https://github.com/ignatovvit/mercado-livre-search/issues
 
 ### Support Email
 
@@ -62,11 +62,11 @@ ignatov.vi@outlook.com
 
 ### Website
 
-TODO: Add product website or project page URL.
+https://github.com/ignatovvit/mercado-livre-search
 
 ### Privacy Policy URL
 
-TODO: Publish `docs/store/PRIVACY_POLICY.md` on a public HTTPS URL and paste it here.
+https://ignatovvit.github.io/mercado-livre-search/privacy-policy/
 
 ## Permission Justifications
 
@@ -121,5 +121,3 @@ Verification before submission:
 
 - At least one store screenshot showing the ML Lens panel on a supported marketplace page.
 - Optional promotional tile/banner assets if Partner Center requests them.
-- Public privacy policy URL.
-- Support URL.
