@@ -46,7 +46,13 @@ ML Lens is an independent browser extension and is not affiliated with, endorsed
 
 ### Search Terms
 
-Mercado Livre, Mercado Libre, shopping, search, product research, translation, filters, reviews, Brazil, Latin America
+Mercado Livre
+Mercado Libre
+product search
+shopping filters
+query translation
+product reviews
+product scanner
 
 ### Category
 
@@ -81,6 +87,24 @@ Recommended Edge listing logo size: 300 x 300 pixels.
 `docs/store/assets/edge-small-promotional-tile-440x280.png`
 
 Edge small promotional tile size: 440 x 280 pixels.
+
+### Large promotional tile
+
+`docs/store/assets/edge-large-promotional-tile-1400x560.png`
+
+Edge large promotional tile size: 1400 x 560 pixels.
+
+### Screenshots
+
+`docs/store/assets/edge-screenshot-01-query-translation-1280x800.png`
+
+`docs/store/assets/edge-screenshot-02-filters-1280x800.png`
+
+`docs/store/assets/edge-screenshot-03-deep-scan-1280x800.png`
+
+`docs/store/assets/edge-screenshot-04-ranked-results-1280x800.png`
+
+Each screenshot size: 1280 x 800 pixels.
 
 ## Permission Justifications
 
@@ -133,4 +157,4 @@ Verification before submission:
 
 ## Assets Still Needed
 
-- At least one store screenshot showing the ML Lens panel on a supported marketplace page.
+- YouTube video URL is optional and can be left empty.
