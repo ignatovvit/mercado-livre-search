@@ -68,6 +68,20 @@ https://github.com/ignatovvit/mercado-livre-search
 
 https://ignatovvit.github.io/mercado-livre-search/privacy-policy/
 
+## Store Assets
+
+### Extension logo
+
+`docs/store/assets/edge-logo-300.png`
+
+Recommended Edge listing logo size: 300 x 300 pixels.
+
+### Small promotional tile
+
+`docs/store/assets/edge-small-promotional-tile-440x280.png`
+
+Edge small promotional tile size: 440 x 280 pixels.
+
 ## Permission Justifications
 
 ### `storage`
@@ -120,4 +134,3 @@ Verification before submission:
 ## Assets Still Needed
 
 - At least one store screenshot showing the ML Lens panel on a supported marketplace page.
-- Optional promotional tile/banner assets if Partner Center requests them.
